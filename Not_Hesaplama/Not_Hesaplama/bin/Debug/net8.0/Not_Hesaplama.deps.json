@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Not_Hesaplama/1.0.0": {
+        "runtime": {
+          "Not_Hesaplama.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Not_Hesaplama/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

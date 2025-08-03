@@ -1,0 +1,14 @@
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\bin\Debug\net8.0\Not_Hesaplama.exe
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\bin\Debug\net8.0\Not_Hesaplama.deps.json
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\bin\Debug\net8.0\Not_Hesaplama.runtimeconfig.json
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\bin\Debug\net8.0\Not_Hesaplama.dll
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\bin\Debug\net8.0\Not_Hesaplama.pdb
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.AssemblyInfoInputs.cache
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.AssemblyInfo.cs
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.dll
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\refint\Not_Hesaplama.dll
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.pdb
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\Not_Hesaplama.genruntimeconfig.cache
+C:\Users\Tarık\source\repos\Not_Hesaplama\Not_Hesaplama\obj\Debug\net8.0\ref\Not_Hesaplama.dll
