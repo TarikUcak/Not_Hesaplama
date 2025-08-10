@@ -14,4 +14,7 @@ Bu proje, basit bir Not Hesaplama uygulamasıdır. Kısacası  okul notlarnızı
 Bu proje MIT lisansı ile lisanslanmıştır.
 
 ## Yazar
-- Tarık Uçak    
+- Tarık Uçak
+
+## Not
+- Not girilirken giremediğiniz not olursa "-" olarak giriniz.
